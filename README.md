@@ -89,3 +89,6 @@ This project demonstrates the ability to:
 - Apply multiple **search algorithms** in practical scenarios.  
 - Integrate **algorithm logic with GUI visualization**, improving interpretability and user experience.  
 - Write **modular, maintainable, and testable code**, following professional software engineering standards.  
+
+
+<img width="400" height="332" alt="image" src="https://github.com/user-attachments/assets/3a4bc840-f8d4-4091-a013-6bb65b3259c5" />
